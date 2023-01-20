@@ -1,0 +1,33 @@
+table {
+    width: 50%;
+    margin-top: 50px;
+    margin-right: 50px;
+    /* margin-left: 50px; */
+}
+
+thead, tbody, tr, td, th { display: block; }
+
+tr:after {
+    content: ' ';
+    display: block;
+    visibility: hidden;
+    clear: both;
+}
+
+thead th {
+    height: 50px;
+    /*text-align: left;*/
+}
+
+tbody {
+    height: 60vh;
+    overflow-y: auto;
+}
+
+
+
+
+tbody td, thead th {
+    width: 20%;
+    float: left;
+}

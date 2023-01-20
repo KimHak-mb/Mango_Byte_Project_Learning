@@ -1,0 +1,84 @@
+<x-master>
+
+    <div>
+        <img src="https://nika2u.com/flutter/uploads/Cover_New_App103.jpg" alt="" class="m-6 w-3/6 drop-shadow-xl rounded-lg mx-auto">
+    </div>
+
+    <div class="m-4 w-3/5 mx-auto flex justify-center flex-wrap">
+
+            <div class="w-full max-w-xs bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700 m-4">
+                <a href="#">
+                    <img class="p-8 rounded-t-lg" src="https://nika2u.com/flutter/uploads/A1565.jpg" alt="product image">
+                </a>
+                <div class="px-5 pb-5">
+                    <a href="#">
+                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Wireless Charger Stand</h5>
+                    </a>
+
+                </div>
+            </div>
+
+            <div class="w-full max-w-xs bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700 m-4">
+                <a href="#">
+                    <img class="p-8 rounded-t-lg" src="https://nika2u.com/flutter/uploads/A1566(1).jpg" alt="product image">
+                </a>
+                <div class="px-5 pb-5">
+                    <a href="#">
+                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">2-Port USB Wall Charger</h5>
+                    </a>
+
+                </div>
+            </div>
+
+            <div class="w-full max-w-xs bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700 m-4">
+                <a href="#">
+                    <img class="p-8 rounded-t-lg" src="https://nika2u.com/flutter/uploads/C0887.jpg" alt="product image">
+                </a>
+                <div class="px-5 pb-5">
+                    <a href="#">
+                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Book Cover Tab A8</h5>
+                    </a>
+
+                </div>
+            </div>
+
+            <div class="w-full max-w-xs bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700 m-4">
+                <a href="#">
+                    <img class="p-8 rounded-t-lg" src="https://nika2u.com/flutter/uploads/A1562.jpg" alt="product image">
+                </a>
+                <div class="px-5 pb-5">
+                    <a href="#">
+                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">5-Port USB Charger</h5>
+                    </a>
+
+                </div>
+            </div>
+
+            <div class="w-full max-w-xs bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700 m-4">
+                <a href="#">
+                    <img class="p-8 rounded-t-lg" src="https://nika2u.com/flutter/uploads/A1538.jpg" alt="product image">
+                </a>
+                <div class="px-5 pb-5">
+                    <a href="#">
+                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Wireless Charger Pad</h5>
+                    </a>
+
+                </div>
+            </div>
+
+            <div class="w-full max-w-xs bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700 m-4">
+                <a href="#">
+                    <img class="p-8 rounded-t-lg" src="https://nika2u.com/flutter/uploads/E02361.jpg" alt="product image">
+                </a>
+                <div class="px-5 pb-5">
+                    <a href="#">
+                        <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">IP Camera Prolink</h5>
+                    </a>
+
+                </div>
+            </div>
+
+    </div>
+
+
+</x-master>
